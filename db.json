@@ -70,6 +70,18 @@
       "comments" : [{},{},{}],
       "description" : "Sed bibendum laoreet ultrices. Maecenas consectetur venenatis metus, quis elementum purus mollis non. Donec vitae euismod nisl ullam vitae interdum."
     }
+  ],
+  "footerList" : [
+    {
+      "header" : "Pages",
+      "items"  : ['Home','About Us','Studio','Contact Us']
+    },{
+      "header" : "Our Studio",
+      "items"  : ['Services','Our Works','Noxe Team','History']
+    },{
+      "header" : "Noxe Studio",
+      "items"  : ['The Noxe Film Studio<br/>1418 Noxe Street, Suite 3845<br/>California, USA']
+    }
   ]
   
 }
