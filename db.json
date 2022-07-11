@@ -31,5 +31,21 @@
       "title" : "Awards",
       "paragraph" : "Lorem ipsum dolor sit amet laoreet consectetuer adipiscing elit. Aenean commodo ligula eget."
     }
+  ],
+  "creatorsDescription" : [
+    {
+      "name" : "Elisa Velasques",
+      "job" : "Editor",
+      "description" : "Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus elit. Phasellus rhoncus nulla ut metus."
+    },{
+      "name" : "Kevin James",
+      "job" : "Editor",
+      "description" : "Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus elit. Phasellus rhoncus nulla ut metus."
+    },{
+      "name" : "James Calvin",
+      "job" : "Developer",
+      "description" : "Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus elit. Phasellus rhoncus nulla ut metus."
+    }
   ]
+  
 }
