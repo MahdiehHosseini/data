@@ -16,5 +16,20 @@
       "topTitle" : "A creative crew",
       "title" : "Meet The Team",
       "paragraph" : "Duis mi velit, auctor vitae leo a, luctus congue dolor. Nullam at velit quis tortor malesuada ultrices vitae vitae lacus. Curabitur tortor purus, tempor in dignissim eget, convallis in lorem. Pellentesque non magna est. Sed sed mattis felis. Curabitur orci turpis, pharetra in tristique quis, luctus ut purus."
-    }]
+    }],
+  "services" : [
+    {
+      "title" : "Directors",
+      "paragraph" : "Lorem ipsum dolor sit amet laoreet consectetuer adipiscing elit. Aenean commodo ligula eget."
+    },{
+      "title" : "Production",
+      "paragraph" : "Lorem ipsum dolor sit amet laoreet consectetuer adipiscing elit. Aenean commodo ligula eget."
+    },{
+      "title" : "Studio",
+      "paragraph" : "Lorem ipsum dolor sit amet laoreet consectetuer adipiscing elit. Aenean commodo ligula eget."
+    },{
+      "title" : "Awards",
+      "paragraph" : "Lorem ipsum dolor sit amet laoreet consectetuer adipiscing elit. Aenean commodo ligula eget."
+    }
+  ]
 }
