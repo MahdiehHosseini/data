@@ -1,99 +1,100 @@
 {
-  "description" : [
-    {
-      "topTitle" : "Curabitur tortor purus",
-      "title" : "Our Latest Movies & TV Shows",
-      "paragraph" : "Duis mi velit, auctor vitae leo a, luctus congue dolor. Nullam at velit quis tortor malesuada ultrices vitae vitae lacus. Curabitur tortor purus, tempor in dignissim eget, convallis in lorem. Pellentesque non magna est. Sed sed mattis felis. Curabitur orci turpis, pharetra in tristique quis, luctus ut purus."
-    },{
-      "topTitle" : "Curabitur tortor purus",
-      "title" : "What We Do?",
-      "paragraph" : "Duis mi velit, auctor vitae leo a, luctus congue dolor. Nullam at velit quis tortor malesuada ultrices vitae vitae lacus. Curabitur tortor purus, tempor in dignissim eget, convallis in lorem. Pellentesque non magna est. Sed sed mattis felis. Curabitur orci turpis, pharetra in tristique quis, luctus ut purus."
-    },{
-      "topTitle" : "Cras porta nisl urna, a interdum arcu",
-      "title" : "Fusce efficitur est eget erat egestas, a faucibus diam vulputate. Morbi dictum neque quis ornare tristique. Vivamus facilisis tincidunt consectetur.",
-      "paragraph" : ""
-    },{
-      "topTitle" : "A creative crew",
-      "title" : "Meet The Team",
-      "paragraph" : "Duis mi velit, auctor vitae leo a, luctus congue dolor. Nullam at velit quis tortor malesuada ultrices vitae vitae lacus. Curabitur tortor purus, tempor in dignissim eget, convallis in lorem. Pellentesque non magna est. Sed sed mattis felis. Curabitur orci turpis, pharetra in tristique quis, luctus ut purus."
-    }],
-  "services" : [
-    {
-      "title" : "Directors",
-      "paragraph" : "Lorem ipsum dolor sit amet laoreet consectetuer adipiscing elit. Aenean commodo ligula eget."
-    },{
-      "title" : "Production",
-      "paragraph" : "Lorem ipsum dolor sit amet laoreet consectetuer adipiscing elit. Aenean commodo ligula eget."
-    },{
-      "title" : "Studio",
-      "paragraph" : "Lorem ipsum dolor sit amet laoreet consectetuer adipiscing elit. Aenean commodo ligula eget."
-    },{
-      "title" : "Awards",
-      "paragraph" : "Lorem ipsum dolor sit amet laoreet consectetuer adipiscing elit. Aenean commodo ligula eget."
-    }
-  ],
-  "creatorsDescription" : [
-    {
-      "name" : "Elisa Velasques",
-      "job" : "Editor",
-      "description" : "Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus elit. Phasellus rhoncus nulla ut metus."
-    },{
-      "name" : "Kevin James",
-      "job" : "Editor",
-      "description" : "Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus elit. Phasellus rhoncus nulla ut metus."
-    },{
-      "name" : "James Calvin",
-      "job" : "Developer",
-      "description" : "Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus elit. Phasellus rhoncus nulla ut metus."
-    }
-  ],
-  "articles" : [
-    {
-      "categorie" : "TV Shows",
-      "title" : "King’s Life season 1 to air on AMC later this year",
-      "writer" : "John Doe",
-      "postedTime" : "2 years ago",
-      "comments" : [{},{},{}],
-      "description" : "Sed bibendum laoreet ultrices. Maecenas consectetur venenatis metus, quis elementum purus mollis non. Donec vitae euismod nisl ullam vitae interdum."
-    },{
-      "categorie" : "Interviews",
-      "title" : "Green Book will reportedly introduce by Edna Mogers",
-      "writer" : "John Doe",
-      "postedTime" : "2 years ago",
-      "comments" : [{},{},{}],
-      "description" : "Sed bibendum laoreet ultrices. Maecenas consectetur venenatis metus, quis elementum purus mollis non. Donec vitae euismod nisl ullam vitae interdum."
-    },{
-      "categorie" : "Movie",
-      "title" : "New Broken Dolls poster shared by movie director",
-      "writer" : "John Doe",
-      "postedTime" : "2 years ago",
-      "comments" : [{},{},{}],
-      "description" : "Sed bibendum laoreet ultrices. Maecenas consectetur venenatis metus, quis elementum purus mollis non. Donec vitae euismod nisl ullam vitae interdum."
-    }
-  ],
-  "footerList" : [
-    {
-      "header" : "Pages",
-      "items"  : ["Home","About Us","Studio","Contact Us"]
-    },{
-      "header" : "Our Studio",
-      "items"  : ["Services","Our Works","Noxe Team","History"]
-    },{
-      "header" : "Noxe Studio",
-      "items"  : ["The Noxe Film Studio\n1418 Noxe Street - Suite 3845\nCalifornia - USA"]
-    }
-  ],
-  "navbarList" : {
-    "pages" : ["Home" , "Movies", "TV Shows" , "Celebs" , "Blog"],
+  "data" : {
+    "description" : [
+      {
+        "topTitle" : "Curabitur tortor purus",
+        "title" : "Our Latest Movies & TV Shows",
+        "paragraph" : "Duis mi velit, auctor vitae leo a, luctus congue dolor. Nullam at velit quis tortor malesuada ultrices vitae vitae lacus. Curabitur tortor purus, tempor in dignissim eget, convallis in lorem. Pellentesque non magna est. Sed sed mattis felis. Curabitur orci turpis, pharetra in tristique quis, luctus ut purus."
+      },{
+        "topTitle" : "Curabitur tortor purus",
+        "title" : "What We Do?",
+        "paragraph" : "Duis mi velit, auctor vitae leo a, luctus congue dolor. Nullam at velit quis tortor malesuada ultrices vitae vitae lacus. Curabitur tortor purus, tempor in dignissim eget, convallis in lorem. Pellentesque non magna est. Sed sed mattis felis. Curabitur orci turpis, pharetra in tristique quis, luctus ut purus."
+      },{
+        "topTitle" : "Cras porta nisl urna, a interdum arcu",
+        "title" : "Fusce efficitur est eget erat egestas, a faucibus diam vulputate. Morbi dictum neque quis ornare tristique. Vivamus facilisis tincidunt consectetur.",
+        "paragraph" : ""
+      },{
+        "topTitle" : "A creative crew",
+        "title" : "Meet The Team",
+        "paragraph" : "Duis mi velit, auctor vitae leo a, luctus congue dolor. Nullam at velit quis tortor malesuada ultrices vitae vitae lacus. Curabitur tortor purus, tempor in dignissim eget, convallis in lorem. Pellentesque non magna est. Sed sed mattis felis. Curabitur orci turpis, pharetra in tristique quis, luctus ut purus."
+      }],
+    "services" : [
+      {
+        "title" : "Directors",
+        "paragraph" : "Lorem ipsum dolor sit amet laoreet consectetuer adipiscing elit. Aenean commodo ligula eget."
+      },{
+        "title" : "Production",
+        "paragraph" : "Lorem ipsum dolor sit amet laoreet consectetuer adipiscing elit. Aenean commodo ligula eget."
+      },{
+        "title" : "Studio",
+        "paragraph" : "Lorem ipsum dolor sit amet laoreet consectetuer adipiscing elit. Aenean commodo ligula eget."
+      },{
+        "title" : "Awards",
+        "paragraph" : "Lorem ipsum dolor sit amet laoreet consectetuer adipiscing elit. Aenean commodo ligula eget."
+      }
+    ],
+    "creatorsDescription" : [
+      {
+        "name" : "Elisa Velasques",
+        "job" : "Editor",
+        "description" : "Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus elit. Phasellus rhoncus nulla ut metus."
+      },{
+        "name" : "Kevin James",
+        "job" : "Editor",
+        "description" : "Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus elit. Phasellus rhoncus nulla ut metus."
+      },{
+        "name" : "James Calvin",
+        "job" : "Developer",
+        "description" : "Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus elit. Phasellus rhoncus nulla ut metus."
+      }
+    ],
+    "articles" : [
+      {
+        "categorie" : "TV Shows",
+        "title" : "King’s Life season 1 to air on AMC later this year",
+        "writer" : "John Doe",
+        "postedTime" : "2 years ago",
+        "comments" : [{},{},{}],
+        "description" : "Sed bibendum laoreet ultrices. Maecenas consectetur venenatis metus, quis elementum purus mollis non. Donec vitae euismod nisl ullam vitae interdum."
+      },{
+        "categorie" : "Interviews",
+        "title" : "Green Book will reportedly introduce by Edna Mogers",
+        "writer" : "John Doe",
+        "postedTime" : "2 years ago",
+        "comments" : [{},{},{}],
+        "description" : "Sed bibendum laoreet ultrices. Maecenas consectetur venenatis metus, quis elementum purus mollis non. Donec vitae euismod nisl ullam vitae interdum."
+      },{
+        "categorie" : "Movie",
+        "title" : "New Broken Dolls poster shared by movie director",
+        "writer" : "John Doe",
+        "postedTime" : "2 years ago",
+        "comments" : [{},{},{}],
+        "description" : "Sed bibendum laoreet ultrices. Maecenas consectetur venenatis metus, quis elementum purus mollis non. Donec vitae euismod nisl ullam vitae interdum."
+      }
+    ],
     "footerList" : [
       {
+        "header" : "Pages",
+        "items"  : ["Home","About Us","Studio","Contact Us"]
+      },{
+        "header" : "Our Studio",
+        "items"  : ["Services","Our Works","Noxe Team","History"]
+      },{
         "header" : "Noxe Studio",
         "items"  : ["The Noxe Film Studio\n1418 Noxe Street - Suite 3845\nCalifornia - USA"]
-      },{
-        "header" : "Center Office",
-        "items"  : ["+(01) 426-9824" , "+(01) 426-9824" , "12369, New York, USA"]
       }
-    ]
+    ],
+    "navbarList" : {
+      "pages" : ["Home" , "Movies", "TV Shows" , "Celebs" , "Blog"],
+      "footerList" : [
+        {
+          "header" : "Noxe Studio",
+          "items"  : ["The Noxe Film Studio\n1418 Noxe Street - Suite 3845\nCalifornia - USA"]
+        },{
+          "header" : "Center Office",
+          "items"  : ["+(01) 426-9824" , "+(01) 426-9824" , "12369, New York, USA"]
+        }
+      ]
+    }
   }
-  
 }
