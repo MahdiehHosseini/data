@@ -82,6 +82,18 @@
       "header" : "Noxe Studio",
       "items"  : ["The Noxe Film Studio\n1418 Noxe Street - Suite 3845\nCalifornia - USA"]
     }
-  ]
+  ],
+  "navbarList" : {
+    "pages" : ["Home" , "Movies", "TV Shows" , "Celebs" , "Blog"],
+    "footerList" : [
+      {
+        "header" : "Noxe Studio",
+        "items"  : ["The Noxe Film Studio\n1418 Noxe Street - Suite 3845\nCalifornia - USA"]
+      },{
+        "header" : "Center Office",
+        "items"  : ["+(01) 426-9824" , "+(01) 426-9824" , "12369, New York, USA"]
+      }
+    ]
+  }
   
 }
